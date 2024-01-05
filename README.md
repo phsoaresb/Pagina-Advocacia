@@ -7,9 +7,11 @@ Além da descrição dos serviços oferecidos e sobre o histórico profissional 
 
 Abaixo, as imagens do projeto:
 
-![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/29c25e10-2abb-48c9-b087-1f7e161d2f78)
+![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/7b751bc5-71df-4521-8339-4cf82f7fd44f)
 
-![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/843d15b0-6c7a-4eaf-b524-bf6d80c64743)
+![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/1dbaa7c0-7f1d-4e1c-8b21-ac99aa9ca72e)
 
-![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/b1c3c4cf-290f-4b7a-9716-45dcba2c21fb)
-![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/5b3bd689-347e-4ac3-99d2-d20b43d351a9)
+![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/db167e0b-ba82-4bc3-b628-07e6030f5aa6)
+![image](https://github.com/phsoaresb/Pagina-Advocacia/assets/134897384/67e69928-0c20-4ee9-8335-9efa481d4bbc)
+
+
