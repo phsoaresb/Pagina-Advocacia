@@ -4,7 +4,7 @@ body {
 }
 
 .firstsection {
-    background-image: url(assets/capa.jpg);
+    background-image: url('assets/capa.jpg');
     background-size: cover;
     text-align: right;
     padding: 50px 20px;
@@ -54,7 +54,7 @@ span {
 .background-images {
     padding: 50px 0;
     text-align: center;
-    background-image: url(assets/fundo.jpg);
+    background-image: url('assets/fundo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
